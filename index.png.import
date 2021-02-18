@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/index.png-cca50fdcec390cb152f40e3b40014106.stex"
+path="res://.import/index.png-6ec6c26c49e852153915f1545f7e510c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Export/index.png"
-dest_files=[ "res://.import/index.png-cca50fdcec390cb152f40e3b40014106.stex" ]
+source_file="res://ClientWebsite/hal609.github.io/index.png"
+dest_files=[ "res://.import/index.png-6ec6c26c49e852153915f1545f7e510c.stex" ]
 
 [params]
 
